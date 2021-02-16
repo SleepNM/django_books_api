@@ -1,0 +1,24 @@
+This is the test:
+
+A Django app with Vue.js app at front-end which allows a user to create list with favorite books and manage it:
+- customer should be able to login into the app using his own credentials
+- user must be able to see list of books he already added, create new, modify and delete them
+- book model must contain following fields:
+-- author
+-- title
+-- description
+-- poster image
+Front-end requirements:
+- Use Vuex and Vue router
+- Use Element UI as front-end framework. No additional styling required
+- Use Axios in order to communicate with API
+Back-end requirements:
+- Use django-webpack-loader
+- Use django-rest-framework
+- Use Django's users model
+-----------
+You will remain the owner of these sources. This is not a commercial application.
+
+We believe this is a few hours of work. We only invite a few people to do this, only those we really like based on their high level profile.
+
+If you do not have Vue.js in your stack, it might take you a bit longer. Please let me know how you feel about doing this test?
