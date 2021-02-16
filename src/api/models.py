@@ -5,7 +5,7 @@ import uuid
 
 def book_image_file_path(instance, filename):
     """
-    Generate a file path and unique name for new recipe image
+    Generate a file path and unique name for new book image
     """
     ext = filename.split(".")[-1]
     filename = f"{uuid.uuid4()}.{ext}"
