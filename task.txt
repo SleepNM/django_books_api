@@ -9,7 +9,3 @@ Back-end requirements:
 - Use django-webpack-loader
 - Use django-rest-framework
 - Use Django's users model
------------
-You will remain the owner of these sources. This is not a commercial application.
-
-We believe this is a few hours of work. We only invite a few people to do this, only those we really like based on their high level profile.
