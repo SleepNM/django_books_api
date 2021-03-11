@@ -1,4 +1,4 @@
-# Test
+# Django Book API
 
 ## Install requirements, run the developmente sever.
 
